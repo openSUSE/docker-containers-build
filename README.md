@@ -1,7 +1,7 @@
 This repository contains the openSUSE containers built for Docker.
 
-This repository is used by [Docker's stackbrew](https://github.com/docker/stackbrew)
-system to automatically release the official images on
+This repository is used by [docker-library](https://github.com/docker-library/official-images)
+to automatically release the official images on
 [Docker Hub](https://registry.hub.docker.com/).
 
 Source files for these images can be found inside of

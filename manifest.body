@@ -1,0 +1,9 @@
+# This is the multiarch section specific for openSUSE-Leap-42.3
+Tags: 42.3,latest,leap
+Architectures: amd64, arm64v8, ppc64le
+GitFetch: refs/heads/openSUSE-Leap-42.3
+GitCommit: 755791624ea4d62702f134d85b81cbd8308517fd
+amd64-Directory: x86_64/
+arm64v8-Directory: aarch64/
+ppc64le-Directory: ppc64le/
+

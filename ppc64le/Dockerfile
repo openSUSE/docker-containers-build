@@ -1,3 +1,4 @@
 FROM scratch
-MAINTAINER SUSE Containers Team <containers@suse.com>
-ADD openSUSE-Leap-42.3.base.ppc64le.tar.xz /
+MAINTAINER Fabian Vogt <fvogt@suse.com>
+# Version: 1.0.0-Build6.6
+ADD openSUSE-Leap-42.3-ppc64le-1.0.0-Build6.6.tar.xz /
